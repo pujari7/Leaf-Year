@@ -1,6 +1,6 @@
 package WheaterCheackPrograms;
 
-public class LeafYear1 {
+public class LeafYear {
 
 	public static void main(String[] args) {
 		int year=8;
